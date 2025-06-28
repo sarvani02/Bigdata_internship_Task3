@@ -18,6 +18,7 @@ This repository contains an interactive Power BI dashboard built for a housing d
 - 📎 Some outputs (like dashboards or notebooks) are provided as .zip files.
 - To access the content:
   - Click on the .zip file
-  - Then click *“View Raw”* (below the file) to download and extract
+  - There under the code and blame ,you can see "View Raw" 
+  - Then click *“View Raw”*  to download and extract
 
 > Please make sure to *download .zip files using View Raw* to access full results.
