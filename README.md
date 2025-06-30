@@ -22,3 +22,8 @@ This repository contains an interactive Power BI dashboard built for a housing d
   - Then click *“View Raw”*  to download and extract
 
 > Please make sure to *download .zip files using View Raw* to access full results.
+>
+> ### 📁 Dataset Used:
+*Dataset Name:* Housing Dataset  
+*Source:* [Kaggle – Real Estate Price Prediction](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)  
+📥 Please download and use the dataset to explore the .pbix dashboard if needed.
